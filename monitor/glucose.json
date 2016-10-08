@@ -4462,21 +4462,5 @@
     "_id": "57f72c3f890836197e6d97ed", 
     "type": "sgv", 
     "glucose": 215
-  }, 
-  {
-    "xDrip_filtered_calculated_value": 0, 
-    "direction": "Flat", 
-    "noise": 1, 
-    "filtered": 194000, 
-    "dateString": "2016-10-06T21:56:18.112000-07:00", 
-    "sgv": 209, 
-    "device": "xDrip-DexcomShare", 
-    "unfiltered": 199000, 
-    "sysTime": "2016-10-06T21:56:18.112-0700", 
-    "date": 1475816178112, 
-    "rssi": 100, 
-    "_id": "57f72b63890836197e6d97ec", 
-    "type": "sgv", 
-    "glucose": 209
   }
 ]
