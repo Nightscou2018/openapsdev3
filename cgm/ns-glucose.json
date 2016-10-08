@@ -1,6 +1,22 @@
 [
   {
     "xDrip_filtered_calculated_value": 0, 
+    "direction": "FortyFiveUp", 
+    "noise": 1, 
+    "filtered": 203000, 
+    "dateString": "2016-10-07T21:41:16.018000-07:00", 
+    "sgv": 214, 
+    "device": "xDrip-DexcomShare", 
+    "unfiltered": 211000, 
+    "sysTime": "2016-10-07T21:41:16.018-0700", 
+    "date": 1475901676018, 
+    "rssi": 100, 
+    "_id": "57f8790f890836197e6d9ca7", 
+    "type": "sgv", 
+    "glucose": 214
+  }, 
+  {
+    "xDrip_filtered_calculated_value": 0, 
     "direction": "Flat", 
     "noise": 1, 
     "filtered": 200000, 
